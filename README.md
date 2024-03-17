@@ -21,7 +21,7 @@ A seguir, os passos para a preparação do projeto:
 
 # Projeto: *<Nome_do_seu_Projeto>*
 
-# Grupo: *<Nome_do_seu_Grupo>*
+# Grupo: Anna Julia Santos de Paula, Diogo Costa Macedo e Pedro Giovannini Andrade
 
 # Descrição
 
