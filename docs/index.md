@@ -27,19 +27,16 @@
 
 # Autores
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
-
+* Anna Julia Santos de Paula
+* Diogo Costa Macedo
+* Pedro Giovannini Andrade
 
 # Descrição do Projeto
+Devido ao surgimento de uma rede de pizzarias concorrente que promete entrega em apenas 30 minutos, a Pizza-Express vem enfrentando uma perda significativa de 30% de receita, resultado do seu tempo de entrega estimado de em até 1 hora. Com o intuito de solucionar este problema, a Pizza-Express deve desenvolver   um sistema de entrega que seja mais simplificado, eficiente e que possa rivalizar com a garantia de entrega de 30 minutos oferecida pelo seu concorrente.   A solução proposta envolve a criação de pizzarias dedicadas exclusivamente ao recebimento, preparação e entrega de pedidos, eliminando a necessidade de espaços físicos de varejo. Ao localizar estrategicamente esses estabelecimentos, a Pizza-Express pode garantir a pronta entrega em um prazo impressionante de 10 a 15 minutos a partir do momento em que o pedido é feito.
 
-*&lt;Introdução do projeto&gt;*
+Para executar esta solução, é necessário realizar dois projetos distintos de desenvolvimento de software:
+
+O primeiro será um sistema de software projetado para facilitar o gerenciamento de pedidos e determinar a localização mais conveniente de uma fábrica de pizza para uma entrega eficiente. E o segundo será sistema de software para fornecer suporte abrangente às operações diárias de uma fábrica de pizzas. Isso, tendo em vista que garantir o sucesso dessas iniciativas tem um significado imenso para o futuro da Pizza Express, como enfatiza o patrocinador do projeto, Papa-Léguas Delivery. 
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 *&lt;Descrição dos requisitos&gt;*
