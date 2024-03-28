@@ -78,8 +78,7 @@ Confiabilidade:
    - Disponibilidade contínua do sistema para garantir que os pedidos sejam processados e entregues sem interrupções.
    - Recuperação rápida em caso de falha do sistema para minimizar o impacto nas operações da Pizza-Express.
 # Diagrama de Atividades
-
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+![diagrama_atividades](https://github.com/TylenDPA/UML-Classroom-FCI/assets/162384475/ef6eb51c-33e2-425b-8de2-773399e27485)
 
 # Diagrama de Casos de Uso
 
