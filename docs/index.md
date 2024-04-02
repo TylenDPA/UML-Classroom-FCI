@@ -81,12 +81,19 @@ Confiabilidade:
 ![diagrama_atividades](https://github.com/TylenDPA/UML-Classroom-FCI/assets/162384475/ef6eb51c-33e2-425b-8de2-773399e27485)
 
 # Diagrama de Casos de Uso
+![IMG_7714](https://github.com/TylenDPA/UML-Classroom-FCI/assets/162384475/b37847ee-3cc0-435c-ae84-35e1f2c4b3dc)
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+
+
 
 # Descrição dos Casos de Uso
+![IMG_7709](https://github.com/TylenDPA/UML-Classroom-FCI/assets/162384475/1088681c-3ff6-49f4-bdf3-e8876f071fdc)![IMG_7710](https://github.com/TylenDPA/UML-Classroom-FCI/assets/162384475/b947ad8a-f3da-49ac-9608-c65e1ed319e4)![IMG_7711](https://github.com/TylenDPA/UML-Classroom-FCI/assets/162384475/b9f78d88-75a5-49c9-9a08-2f386fdc849d)![IMG_7712](https://github.com/TylenDPA/UML-Classroom-FCI/assets/162384475/fd01b5fc-0576-4cee-af16-45352ce7d438)![IMG_7713](https://github.com/TylenDPA/UML-Classroom-FCI/assets/162384475/9c1a5175-8149-4a6f-9e95-0aa9bcc6621a)
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+
+
+
+
+
 
 # Diagrama de Sequência
 
