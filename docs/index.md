@@ -97,19 +97,22 @@ Confiabilidade:
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![DiagramaSequencia](https://github.com/TylenDPA/UML-Classroom-FCI/assets/162384475/b5b04556-064e-45e3-b84a-997660fe0231)
+
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![DiagramaClasses](https://github.com/TylenDPA/UML-Classroom-FCI/assets/162384475/575323ba-aa53-44ce-8d81-c34f178bedac)
+
 
 # Diagrama de Estados
+![DiagramaEstado](https://github.com/TylenDPA/UML-Classroom-FCI/assets/162384475/b0e6672d-6b8e-48bf-8719-5d4d3f2b5d06)
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![DiagramaImplantacao](https://github.com/TylenDPA/UML-Classroom-FCI/assets/162384475/602ae3ff-aa6a-45e3-b656-ee1350f503d9)
+
 
 # Referências
 
